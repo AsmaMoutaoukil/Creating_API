@@ -1,0 +1,8 @@
+{
+    "id": 12,
+    "name": "Journée à disneyland",
+    "image": "https://i.ibb.co/kxm59t8/disneyland.jpg",
+    "price": "25$",
+    "type": "beau",
+    "alt": "disneyland"
+}

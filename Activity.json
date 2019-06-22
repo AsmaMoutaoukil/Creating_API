@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "name": "Sortie en vélo",
+        "image": "https://i.ibb.co/ZzBd37Z/yoga.jpg",
+        "price": "Free",
+        "type": "beau",
+        "alt": "l"
+    },
+    {
+        "id": 2,
+        "name": "Sortie au Bar",
+        "image": "https://i.ibb.co/gVF8j8Y/bar.jpg",
+        "price": "20$",
+        "type": "moyen",
+        "alt": "l"
+    },
+    {
+        "id": 3,
+        "name": "Sortie au cinéma",
+        "image": "https://i.ibb.co/BNWgkrS/cinema.jpg",
+        "price": "85$",
+        "type": "moyen",
+        "alt": "c"
+    },
+    {
+        "id": 4,
+        "name": "Sortie au Stade de foot",
+        "image": "https://i.ibb.co/r5ZXm1h/stade.jpg",
+        "price": "50$",
+        "type": "beau",
+        "alt": "rooftop"
+    },
+    {
+        "id": 5,
+        "name": "Sortie découverte",
+        "image": "https://i.ibb.co/P4RPNqy/aquariumdeparis.jpg",
+        "price": "15$",
+        "type": "moyen",
+        "alt": "biflage de cycliste "
+    },
+    {
+        "id": 6,
+        "name": "Sortie au parc",
+        "image": "https://i.ibb.co/y5kdS3W/parc.jpg",
+        "price": "Free",
+        "type": "beau",
+        "alt": "l"
+    },
+    {
+        "id": 7,
+        "name": "Sortie au Restaurant",
+        "image": "https://i.ibb.co/ZB8YBJQ/restaurant.jpg",
+        "price": "50$",
+        "type": "moyen",
+        "alt": "l"
+    },
+    {
+        "id": 8,
+        "name": "Vister des monuments",
+        "image": "https://i.ibb.co/BzCF53J/monument.jpg",
+        "price": "15$",
+        "type": "beau",
+        "alt": "l"
+    },
+    {
+        "id": 9,
+        "name": "Regarder un film sur netflix",
+        "image": "https://i.ibb.co/44Vf1M9/netflix.jpg",
+        "price": "Sur abonnement",
+        "type": "moyen",
+        "alt": "netflex"
+    },
+    {
+        "id": 10,
+        "name": "Sortie à la piscine",
+        "image": "https://i.ibb.co/bgdd8Pv/piscine.jpg",
+        "price": "15$",
+        "type": "beau",
+        "alt": "cours de sabre laser"
+    },
+    {
+        "id": 11,
+        "name": "Sortie à la patinoire",
+        "image": "https://i.ibb.co/2sJcmJ3/patinoire.jpg",
+        "price": "15$",
+        "type": "moyen",
+        "alt": "S"
+    },
+    {
+        "id": 12,
+        "name": "Journée à disneyland",
+        "image": "https://i.ibb.co/kxm59t8/disneyland.jpg",
+        "price": "25$",
+        "type": "beau",
+        "alt": "disneyland"
+    },
+    {
+        "id": 13,
+        "name": "Cinema",
+        "image": "https://www.challenges.fr/assets/img/2017/03/02/cover-r4x3w1000-58b7e0152c8b5-gaumont-pathe.jpg",
+        "price": "15$",
+        "type": "moyen",
+        "alt": "salle de cinema"
+    },
+    {
+        "id": 14,
+        "name": "Course poursuite",
+        "image": "http://iwallpapers.free.fr/upload/2015/07/28/20150728170049-ab99c2d8.png",
+        "price": "30$",
+        "type": "moyen",
+        "alt": "course poursuite en moto"
+    }
+ 
+
+]
+

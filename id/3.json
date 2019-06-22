@@ -1,0 +1,8 @@
+{
+    "id": 3,
+    "name": "Sortie au cinéma",
+    "image": "https://i.ibb.co/BNWgkrS/cinema.jpg",
+    "price": "85$",
+    "type": "moyen",
+    "alt": "c"
+}

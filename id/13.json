@@ -1,0 +1,8 @@
+{
+    "id": 13,
+    "name": "Cinema",
+    "image": "https://www.challenges.fr/assets/img/2017/03/02/cover-r4x3w1000-58b7e0152c8b5-gaumont-pathe.jpg",
+    "price": "15$",
+    "type": "moyen",
+    "alt": "salle de cinema"
+}
